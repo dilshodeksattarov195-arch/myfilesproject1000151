@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdync",
+        "uuid": 1194561,
+        "checksum": "cicmo"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
